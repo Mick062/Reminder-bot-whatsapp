@@ -23,7 +23,7 @@ as of latest change, the bot compare the system clock with hardcoded clock in it
 
 step 4
 boot the bot by typing the following into cmd:
->node index.js
+node index.js
 for first startup, it will show QR code which you need to scan with your currently existing whatsapp account with Linked Device feature, this will give the bot your session
 the session file only exist within your local system
 
